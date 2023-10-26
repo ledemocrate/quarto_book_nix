@@ -1,4 +1,4 @@
-# Conclusion test
+# Conclusion test bis
 
 So in conclusion, should you use this template? I think you should, even if
 you're not that familiar with Nix. If you need to add packages, simply rerun
