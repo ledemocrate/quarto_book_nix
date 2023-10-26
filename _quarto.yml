@@ -7,7 +7,7 @@ book:
   author: "GOLLENTZ Quentin"
   date: "2023-10-19"
   search: true
-  repo-url: "https://github.com/b-rodrigues/quarto_book_nix"
+  repo-url: "https://github.com/ledemocrate/quarto_book_nix"
   repo-actions: [edit]
   sharing: [twitter, facebook]
   downloads: [pdf, epub]
