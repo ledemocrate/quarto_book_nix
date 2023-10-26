@@ -51,7 +51,7 @@ jobs:
         nix-build
 
     - name: Publish to GitHub Pages (and render)
-      uses: b-rodrigues/quarto-nix-actions/publish@main
+      uses: ledemocrate/quarto-nix-actions/publish@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
 

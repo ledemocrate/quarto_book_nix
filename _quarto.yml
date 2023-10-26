@@ -4,7 +4,7 @@ project:
 book:
   title: "A fully reproducible Quarto book template"
   subtitle: "Powered by Github Actions and Nix"
-  author: "Bruno Rodrigues"
+  author: "GOLLENTZ Quentin"
   date: "2023-10-19"
   search: true
   repo-url: "https://github.com/b-rodrigues/quarto_book_nix"
