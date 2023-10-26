@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "A fully reproducible Quarto book template"
+  title: "Reproduction : A fully reproducible Quarto book template"
   subtitle: "Powered by Github Actions and Nix"
   author: "GOLLENTZ Quentin"
   date: "2023-10-19"
