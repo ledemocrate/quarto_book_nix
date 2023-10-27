@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "A fully reproducible Quarto book template"
-  subtitle: "Powered by Github Actions and Nix"
+  title: "De l'évaluation du prix d'une action"
+  subtitle: "La somme des dividendes futures actualisées"
   author: "GOLLENTZ Quentin"
   date: "2023-10-19"
   search: true
